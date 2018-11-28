@@ -1,0 +1,7 @@
+In the following location change the default to your preferred browser.
+E.g. firefox
+https://unix.stackexchange.com/questions/234734/set-the-default-browser-system-wide-on-manjaro/434465#434465
+
+~/.config/mimeapps.list
+~/.i3/config
+~/.profile
